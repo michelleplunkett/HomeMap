@@ -1,0 +1,8 @@
+.RData
+.Rhistory
+Data
+*.Rproj
+map-v2.R
+Map.R
+.Rproj.user
+.DS_Store
